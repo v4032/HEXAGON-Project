@@ -1,0 +1,2030 @@
+#!GFKNT 2.0
+# This is an automatically generated file. Do not edit.
+#/
+#?
+#$0
+#C22-04-2016 20:15:38
+#^010000000000000000000000
+%+
+NN=New note
+ID=1
+II=0
+DC=22-04-2016 20:15:38
+TI=0
+TS=4
+CX=333
+CY=0
+BG=clWindow
+CH=1
+FC=clWindowText
+FN=Tahoma
+FS=8
+LN=4105
+ST=
+FL=101110000000100000000000
+SN=151
+TW=355
+EN=New node
+TB=clWindow
+TH=1
+TC=clWindowText
+TN=Tahoma
+TZ=8
+TY=
+%-
+LV=0
+ND=HEXAGON Game System
+DI=86
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=1
+ND=Skills
+DI=87
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Skills Description
+DI=88
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Main Skills
+DI=90
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Combat
+DI=107
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Detection
+DI=113
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Explosives
+DI=112
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Gunmanship
+DI=111
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Marksmanship
+DI=110
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Martial Art
+DI=109
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Stealth
+DI=108
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Expertise
+DI=99
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Business
+DI=101
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Crime
+DI=104
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Culture
+DI=102
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Driving
+DI=128
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Informatics
+DI=91
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Law
+DI=106
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Mechanics
+DI=93
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Medecine
+DI=97
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Media
+DI=103
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Research
+DI=105
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Structural
+DI=94
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Physical
+DI=114
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Acrobatism
+DI=117
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Athletism
+DI=116
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Climbing
+DI=115
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Social
+DI=118
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Deception
+DI=120
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Influence
+DI=121
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Intimidation
+DI=122
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Seduction
+DI=119
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Specialised Skills
+DI=126
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Art
+DI=138
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Dance
+DI=133
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Music
+DI=134
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Visual Art
+DI=130
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Writing
+DI=131
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Expertise
+DI=137
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Biology
+DI=95
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Chemistry
+DI=96
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Cooking
+DI=136
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Electronics
+DI=92
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Etiquette
+DI=132
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Investigation
+DI=139
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Navigation
+DI=127
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Networking
+DI=140
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Physical Science
+DI=98
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Piloting
+DI=129
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Politics
+DI=100
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=5
+ND=Survival
+DI=135
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Tasks
+DI=123
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Skill Test
+DI=125
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=799
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Skill tests are a way to resolve situations where success is uncertain. These challenges have a quick process to determine if the character is going to succeed or not and how much of a success or failure is it going to be:\par
+\par
+1. GM describes the Task\par
+\par
+2. Player chooses what skill to use and how to use it\par
+\par
+3. Player is allowed to look for Edges to improve its odds of succeeding\par
+\par
+4. Player determine the total of its Skill Modifier + Edges and decides wether or not to attempt the Task\par
+\par
+5. GM declares if the Skill Test requires a Dice Roll or not based on the Passive Total determined by the Player\par
+\par
+6. If no Dice Roll is required, the GM directly states what extent of Success or Failure the Task results in. Otherwise, a Dice Roll is performed using 3d6 and adding to the result the Passive Total \par
+}
+%-
+LV=3
+ND=What is a Task
+DI=124
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=387
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Tasks are challenges that require a particular skill to perform. Opening a door, walking on the sidewalk and cooking something in a micro oven are examples of casual activities which don't require any gameplay interactions. Force open a locked door, running in a jungle and cooking a perfect meal for the Queen of Norson are examples of challenging activities that require a Skill test. \par
+}
+%-
+LV=1
+ND=Abilities
+DI=141
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Abilities Description
+DI=142
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Body
+DI=145
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Dexterity
+DI=144
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=54
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Skill in performing tasks, especially with the hands \par
+\par
+}
+%-
+LV=4
+ND=Agility
+DI=143
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=29
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 The power of moving the limbs quickly and easily \par
+\par
+}
+%-
+LV=4
+ND=Endurance
+DI=146
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=48
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 The measure of a person's stamina or persistence\par
+}
+%-
+LV=4
+ND=Perception
+DI=147
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=42
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 That which is detected by the five senses \par
+}
+%-
+LV=4
+ND=Strength
+DI=148
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=37
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 The quality or degree of being strong\par
+\par
+}
+%-
+LV=3
+ND=Intellectual
+DI=149
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Charisma
+DI=150
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=28
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\froman\fcharset0 Times New Roman;}{\f1\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs24 Personal charm and magnetism\f1\fs16\par
+\par
+}
+%-
+LV=4
+ND=Intelligence
+DI=151
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=162
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Capacity of mind, especially to understand principles, truths, facts or meanings, acquire knowledge, and apply it to practice; the ability to learn and comprehend\par
+}
+%-
+LV=4
+ND=Manipulation
+DI=152
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=84
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 The usage of psychological influence over a person or situation to gain an outcome \par
+\par
+}
+%-
+LV=4
+ND=Wit
+DI=153
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=89
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 The ability to think quickly; mental cleverness, especially under short time constraints \par
+}
+%-
+LV=4
+ND=Discipline
+DI=154
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=1
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Is the ability you have to control and motivate yourself, stay on track and do what is right \par
+\par
+}
+%-
+LV=0
+ND=MEUZA Interstellar Republic
+DI=40
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=1
+ND=MIR Members
+DI=1
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Major Systems
+DI=2
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Ale
+DI=5
+NF=000000110000000000000000
+BC=clWindow
+IX=0
+HC=clRed
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Arnbjorn
+DI=75
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=74
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Homeworld\par
+Allegiance: The Arnbjorg's Union of the Paivi\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=4
+ND=Siava
+DI=76
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=56
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Moon\par
+Allegiance: The Arnbjorg's Union of the Paivi\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=3
+ND=Alpha Centuri
+DI=4
+NF=000000110000000000000000
+BC=clWindow
+IX=0
+HC=clBlue
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Phaethon
+DI=17
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=74
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+Allegiance: The Earth's Federation of the Humans\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=4
+ND=Pyroeis
+DI=18
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=21
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Orbital Habitat\par
+Allegiance: The Earth's Federation of the Humans\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=3
+ND=Constanta
+DI=6
+NF=000000110000000000000000
+BC=clWindow
+IX=0
+HC=$008080FF
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Constanta
+DI=21
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=15
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Homeworld\par
+Allegiance: The Vutchi Gouvernment of the Xi\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=4
+ND=Noveffa
+DI=22
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=21
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Orbital Habitat\par
+Allegiance: The Vutchi Gouvernment of the Xi\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=4
+ND=Rocifissa
+DI=23
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=12
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+Allegiance: The Vutchi Gouvernment of the Xi\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=4
+ND=Trizia
+DI=24
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=12
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+Allegiance: The Vutchi Gouvernment of the Xi\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=3
+ND=Emry
+DI=7
+NF=000000110000000000000000
+BC=clWindow
+IX=0
+HC=$00004040
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Norson
+DI=28
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=188
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+Allegiance: The Royal Dominion of Queen Nezeever of the Shackletons\par
+Population: 3.7 B\par
+GDP: 112.4 T\par
+\lang4105 Major issue: Population is slowly dying from DNA transmitted disease, threat\par
+}
+%-
+LV=4
+ND=Shelley
+DI=29
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=99
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Homeworld\par
+Allegiance: The Royal Dominion of Queen Nezeever of the Shackletons\par
+Population: 5 K\par
+GDP: 0\par
+\lang4105 Major issue: Contaminated by deadly spores resulting from global war\par
+}
+%-
+LV=3
+ND=Heike
+DI=8
+NF=000000110000000000000000
+BC=clWindow
+IX=0
+HC=clRed
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Slavskka
+DI=80
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=71
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: \par
+Allegiance: The Arnbjorg's Union of the Paivi\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=3
+ND=Lyn
+DI=10
+NF=000000110000000000000000
+BC=clWindow
+IX=0
+HC=clRed
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Maanu
+DI=82
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=85
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: \par
+Allegiance: The Arnbjorg's Union of the Paivi\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=4
+ND=Zenya
+DI=81
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=71
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+Allegiance: The Arnbjorg's Union of the Paivi\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=3
+ND=Michik
+DI=11
+NF=000000110000000000000000
+BC=clWindow
+IX=0
+HC=clRed
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Motrya
+DI=83
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=85
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: \par
+Allegiance: The Arnbjorg's Union of the Paivi\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=4
+ND=Pvitt
+DI=84
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=85
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: \par
+Allegiance: The Arnbjorg's Union of the Paivi\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=4
+ND=Tribvyat
+DI=85
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=85
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: \par
+Allegiance: The Arnbjorg's Union of the Paivi\par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
+}
+%-
+LV=3
+ND=Nuwa
+DI=12
+NF=000000110000000000000000
+BC=clWindow
+IX=0
+HC=clBlue
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Cixi
+DI=20
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=96
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Small Planet\par
+Allegiance: The Earth's Federation of the Humans\par
+Population: 8.4 B\par
+GDP: 122.9 T\par
+\lang4105 Major issue: Overpopulation, gouvernment corruption, crime\par
+}
+%-
+LV=4
+ND=Jinping
+DI=19
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=83
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Small Planet\par
+Allegiance: The Earth's Federation of the Humans\par
+Population: 5.3 B\par
+GDP: 97.2 T\par
+\lang4105 Major issue: Pollution, crime\par
+}
+%-
+LV=3
+ND=Négonde
+DI=3
+NF=000000110000000000000000
+BC=clWindow
+IX=0
+HC=$00FF8080
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Aglaett
+DI=25
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=139
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Homeworld\par
+Allegiance: The Democratic Accord of Aglaett of the Albavotitshyns\par
+Population: 8.4 B\par
+GDP: 203 T\par
+\lang4105 Major issue: Frozen surface\par
+}
+%-
+LV=4
+ND=Avraëlle
+DI=27
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=106
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Moon\par
+Allegiance: The Democratic Accord of Aglaett of the Albavotitshyns\par
+Population: 5.8 B\par
+GDP: 134.3 T\par
+\lang4105 Major issue: \par
+}
+%-
+LV=4
+ND=Lisé
+DI=26
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=124
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+Allegiance: The Democratic Accord of Aglaett of the Albavotitshyns\par
+Population: 6.2 B\par
+GDP: 155.9 T\par
+\lang4105 Major issue: \par
+}
+%-
+LV=3
+ND=Pao
+DI=9
+NF=000000110000000000000000
+BC=clWindow
+IX=0
+HC=clTeal
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Reimoko
+DI=30
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=81
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+Allegiance: The Concord of the Nactr'\par
+Population: 7.9 B\par
+GDP: 143.7 T\par
+\lang4105 Major issue: \par
+}
+%-
+LV=4
+ND=Seung-Pao
+DI=31
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=83
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Homeworld\par
+Allegiance: The Concord of the Nactr'\par
+Population: 13.5 B\par
+GDP: 251.1 T\par
+\lang4105 Major issue: Overpopulation\par
+}
+%-
+LV=3
+ND=Sol
+DI=13
+NF=000000110000000000000000
+BC=clWindow
+IX=0
+HC=clBlue
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Earth
+DI=14
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=94
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Homeworld\par
+Allegiance: The Earth's Federation of the Humans\par
+Population: 17.4 B\par
+GDP: 276.2 T\par
+\lang4105 Major issue: Overpopulation\par
+}
+%-
+LV=4
+ND=Luna
+DI=15
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=138
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+Allegiance: The Earth's Federation of the Humans\par
+Population: 6.8 B\par
+GDP: 115 T\par
+\lang4105 Major issue: Gouvernment instability, terrorism\par
+}
+%-
+LV=3
+ND=Tsarinn
+DI=77
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=MEUZA
+DI=78
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=90
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Orbital Habitat\par
+Allegiance: The MEUZA Interstellar Republic\par
+Population: 460 K\par
+GDP: 0\par
+\lang4105 Major issue: Threat\par
+}
+%-
+LV=4
+ND=Toyksho
+DI=79
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=79
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Small Planet\par
+Allegiance: The MEUZA Interstellar Republic\par
+Population: 46.8 M\par
+GDP: 354.6 B\par
+\lang4105 Major issue: Relliance on MIR funding\par
+}
+%-
+LV=2
+ND=MIR Members Allegiances
+DI=156
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=The Earth's Federation of the Humans
+DI=157
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=The Arnbjorg's Union of the Paivi
+DI=158
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=The Yuucci Gouvernment of the Xi
+DI=159
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=The Royal Dominion of Queen Nezeever of the Shackletons
+DI=160
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=The Concord of the Nactr'
+DI=161
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Minor Systems
+DI=74
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=1
+ND=MIR Parties
+DI=61
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Major Parties
+DI=65
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=The Constitutional Party
+DI=63
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=38
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs24 Ideology: Conservatism\par
+Spectrum: Right\fs16\par
+}
+%-
+LV=3
+ND=The Interstellar Liberated Group
+DI=68
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=35
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs24 Ideology: Liberalism\par
+Spectrum: Left\fs16\par
+}
+%-
+LV=3
+ND=The Major Democratic Party
+DI=62
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=41
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs24 Ideology: Social democracy\par
+Spectrum: Left\fs16\par
+}
+%-
+LV=3
+ND=The Revolutionary People's Party
+DI=69
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=49
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs24 Ideology: Revolutionary socialism\par
+Spectrum: Right\fs16\par
+}
+%-
+LV=2
+ND=Minor Parties
+DI=66
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=The Childs of Nemvrhm
+DI=70
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=37
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs24 Ideology: Theocracism\par
+Spectrum: Right\fs16\par
+}
+%-
+LV=3
+ND=The Free People's Group
+DI=73
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=35
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs24 Ideology: Minarchism\par
+Spectrum: Left\fs16\par
+}
+%-
+LV=3
+ND=The Martian Ultimate Ideology
+DI=72
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=34
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs24 Ideology: Anarchism\par
+Spectrum: Left\fs16\par
+}
+%-
+LV=3
+ND=The Social Ideal of Trizia
+DI=64
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=47
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs24 Ideology: Socialism, Planetarism\par
+Spectrum: Left\fs16\par
+}
+%-
+LV=3
+ND=The United Confedereted Party
+DI=71
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=39
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs24 Ideology: Confederatism\par
+Spectrum: Right\fs16\par
+}
+%-
+LV=1
+ND=MIR Presidential Election System
+DI=57
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Electroral College
+DI=60
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=284
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 The final election process is to have the Electors directly vote for the Presidential Candidate of their choice. The elected President is the candidat who won more than half of the Electoral College votes. Once elected, the President is inaugurated within the next 48 hours on MEUZA. \par
+}
+%-
+LV=2
+ND=General Election
+DI=59
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=513
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Party candidats can now campaign for 1 year and try to gain the favor of the people and the Electors. The must also choose their running partner, who is going to become Vice-President if the candidat becomes President. Once the campaign reaches the end, the General Election is held. This process will elect a number of Electors equal to the number of Congress Members. This number is equal to the pourcentage of population that represents each system in the gouvernment, with a minimum of one member per system. \par
+}
+%-
+LV=2
+ND=Primary Election
+DI=58
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=913
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Potential candidats apply for the title. There is prerequisits that keeps certain indivituals from running for president or vice-president of the IRM: \par
+-Having an uncleared criminal background recognized by the IRM Department of Criminal Affairs.\par
+-Being considered a inhabitant, for the last 5 or more years, in a system that is not part of the IRM at the start of the electoral process.\par
+-Meeting the age restriction depending on the species.\par
+-Artificial individuals like robots and artificial intelligences are not valid candidates.\par
+\par
+After having been throught the check process, the potential candidat is put in one of the two party candidat pool, according to its application file. Candidats are allowed 90 days to campaign and try to win the favor of other party members. At the end of this campaign, a Primary Election is held, where party members vote who's going to represent them in the General Election. \par
+}
+%-
+LV=1
+ND=MIRCabinet
+DI=41
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Agriculture
+DI=42
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=32
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Food production and distribution\par
+}
+%-
+LV=2
+ND=Center
+DI=56
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=36
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Territory and interstellar resources\par
+}
+%-
+LV=2
+ND=Commerce
+DI=43
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=49
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Trade, customer protection and industry standards\par
+}
+%-
+LV=2
+ND=Defense
+DI=55
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=95
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 MIR military and fleet management. MIR doesn't have control over systems own fleets and armies.\par
+}
+%-
+LV=2
+ND=Economy
+DI=44
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Education
+DI=45
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Environment
+DI=46
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Habitation
+DI=47
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Health and Services
+DI=48
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Justice
+DI=49
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=53
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Enforcement of the law and administration of justice.\par
+}
+%-
+LV=2
+ND=Labor
+DI=50
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=58
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Employment standards of all citizen working in MIR systems\par
+}
+%-
+LV=2
+ND=Security
+DI=51
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=94
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Security inside and outside MIR systems on the civilian level. Contains infamous FSDS Division\par
+}
+%-
+LV=2
+ND=Stellar
+DI=52
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=87
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Interplanetary and interstellar relations. Also manages relations with non-MIR systems.\par
+}
+%-
+LV=2
+ND=Technology
+DI=53
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=77
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Technology devellopment and management. Works closely with the FSDS division.\par
+}
+%-
+LV=2
+ND=Transportation
+DI=54
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=58
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Planetary, interplanetary and intertellar transportations.\par
+}
+%-
+LV=1
+ND=Current Establishment
+DI=155
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=15
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}{\f1\fnil\fcharset2 Symbol;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Elected in 2203, the Constitunional Party only obtained a Minor victory of the MDP and has created a conflicted and inpractical gouvernment since.\line\par
+Born on Arnbjorn, \par
+\par
+The Congress is mostly divided between the Constitutional Party, with 34 seats, and the MDP, with 32 seats. \par
+\par
+The rest of the Congress's 34 seats are divided as follow:\par
+\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-280\li280 ILG - 13 seats\par
+{\pntext\f1\'B7\tab}RPP - 15 seats\par
+{\pntext\f1\'B7\tab}UCP - 3 seats\par
+{\pntext\f1\'B7\tab}MUI - 2 seats\par
+{\pntext\f1\'B7\tab}SIT - 1 seat\par
+\pard\par
+\par
+}
+%-
+LV=0
+ND=2211 MIR Presidential Election
+DI=162
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=1
+ND=Recent Issues
+DI=163
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=333
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\b\f0\fs20 Bill on Cybernetic Augmentation Restriction\par
+\par
+\b0\fs16 A bill that had for objective to restrict the use, production and grafting of cybernetic augmentations. The bill doesn't cover cybernetic implants that replace that replace \par
+missing limbs or damaged organs, but many people still consider those implants as a necessary part of their life. \par
+}
+%-
+LV=0
+ND=Species
+DI=32
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=1
+ND=Major Species
+DI=39
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Albavotitshyn
+DI=34
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=18
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Homeworld: Aglaett\par
+}
+%-
+LV=2
+ND=Human
+DI=33
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=16
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Homeworld: Earth\par
+}
+%-
+LV=2
+ND=Nactr'
+DI=35
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=20
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Homeworld: Seung-Pao\par
+}
+%-
+LV=2
+ND=Paivi
+DI=37
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=19
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Homeworld: Arnbjorn\par
+}
+%-
+LV=2
+ND=Shakleton
+DI=36
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=18
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Homeworld: Shelley\par
+}
+%-
+LV=2
+ND=Xi
+DI=38
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=20
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Homeworld: Constanta\par
+}
+%%
