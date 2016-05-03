@@ -12,7 +12,7 @@ II=0
 DC=22-04-2016 20:15:38
 TI=0
 TS=4
-CX=333
+CX=380
 CY=0
 BG=clWindow
 CH=1
@@ -1925,13 +1925,18 @@ DI=163
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=333
+SS=380
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\b\f0\fs20 Bill on Cybernetic Augmentation Restriction\par
 \par
 \b0\fs16 A bill that had for objective to restrict the use, production and grafting of cybernetic augmentations. The bill doesn't cover cybernetic implants that replace that replace \par
 missing limbs or damaged organs, but many people still consider those implants as a necessary part of their life. \par
+\par
+\par
+\b\fs20 Bill on change in the A.I Laws of Behavior\par
+\par
+\b0\fs16\par
 }
 %-
 LV=0
