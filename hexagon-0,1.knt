@@ -12,7 +12,7 @@ II=0
 DC=22-04-2016 20:15:38
 TI=0
 TS=4
-CX=380
+CX=124
 CY=0
 BG=clWindow
 CH=1
@@ -22,7 +22,7 @@ FS=8
 LN=4105
 ST=
 FL=101110000000100000000000
-SN=151
+SN=108
 TW=355
 EN=New node
 TB=clWindow
@@ -810,6 +810,410 @@ SS=1
 \par
 }
 %-
+LV=1
+ND=Background
+DI=164
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Profession
+DI=165
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Academic
+DI=166
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Adventurer
+DI=167
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Astronaut
+DI=186
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Athlete
+DI=168
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Blue Collar
+DI=169
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Celebrity
+DI=170
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Creative
+DI=171
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Criminal
+DI=172
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Dilettante
+DI=173
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Doctor
+DI=174
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Drifter
+DI=187
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Emergency Services
+DI=175
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Entrepreneur
+DI=176
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Heir
+DI=188
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Investigative
+DI=177
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Journalism
+DI=185
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Law Enforcement
+DI=178
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Military
+DI=179
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Outcast
+DI=189
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Politics
+DI=192
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Religious
+DI=180
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Rural
+DI=181
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Scavenger
+DI=190
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Student
+DI=182
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Technician
+DI=183
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Transporter
+DI=191
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=White Collar
+DI=184
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=2
+ND=Origin
+DI=193
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Homeworld
+DI=194
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=547
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Those who are born on homeworlds usually are exposed to the purest original culture a specie has to offer. They grow up surrounded by historical structures and landmarks which creates a sense of planetarism and patriotism that isn't has prevalent on colonies and space habitats. Homeworlds are also usually home to allegiance gouvernments such as Eath's Federation and Arnbjorg's Union. In other cases, the planet may be the remnant of some desastrous event such as Shelley, which has been covered with poisonous spores since the 2157 Global War. \par
+}
+%-
+LV=3
+ND=Primary Colony
+DI=195
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=354
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Primary Colonies are the old colonies that are close to their homeworld and well develloped. They are often culturally pure but differ from their origins because of a more varied pool of population. They often attract more aliens then their parent world and  are often less crowded and polluted, with notable exception such as Cixi and Jinping vs Earth. \par
+}
+%-
+LV=3
+ND=Secondary Colony
+DI=196
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=319
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Secondary colonies are often quite different from their world of origin and are middle grounds where cultures mix together and create new ones. They are far less populated than primary colonies and homeworlds but have weaker economies and structures. Laws are often less constricting and attract organised crime groups.\par
+}
+%-
+LV=3
+ND=Growing Colony
+DI=197
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=380
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Growing colonies are small bases and settlements on untapped worlds. They almost never have a self-sustaining economy and rely on constant supply from primary colonies and homeworlds. Unlike secondary colonies, they are often closer to the culture they originate from and posess less varied populations. Laws are hardly enforced and are vulnerable to raids and criminal takeovers.\par
+}
+%-
+LV=3
+ND=Secondary Habitat
+DI=198
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=684
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Space habitat, deep space or orbital, are the biggest space stations that can exist. They basically are artificial worlds ranging from spheres to rings in shape, usually rotating on themselves to easily create artificial gravity. Most of secondary level habitats are luxurious stations where space is sacrificed for environment, confort and view. Noveffa is a good example of secondary habitat. \par
+\par
+Those habitats are often created with a specific culture in mind or tend to separate its living areas in order to offer a meticulously crafting experience to its inhabitants. Unlike colonies, space habitats very rarely become self-sufficient and prefer to rely on support from their founder, being a megacorporation or a gouvernment.\par
+}
+%-
+LV=3
+ND=Minor Habitat
+DI=199
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=470
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 These habitats are, most of the time, secondary habitats that failed their first purpose and became overcrowded or abandoned by their founder. Law enforcement is often lacking or non-existent and crimelords sometimes end up being in control of the whole station. Inhabitants of these forsaken worlds are either exposed to chaos or by the dangers resulting from the lack of maintenance on the station. Cultures mix and clash on the overpopulated cases of these stations. \par
+}
+%-
 LV=0
 ND=MEUZA Interstellar Republic
 DI=40
@@ -861,14 +1265,14 @@ DI=75
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=74
+SS=124
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Homeworld\par
 Allegiance: The Arnbjorg's Union of the Paivi\par
 Population: \par
 GDP: \par
-\lang4105 Major issue: \par
+\lang4105 Major issue: Pollution, Radiation Pollution\par
 }
 %-
 LV=4
@@ -877,14 +1281,14 @@ DI=76
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=56
+SS=114
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Moon\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Primary Colony, Moon\par
 Allegiance: The Arnbjorg's Union of the Paivi\par
 Population: \par
 GDP: \par
-\lang4105 Major issue: \par
+\lang4105 Major issue: Civil War\par
 }
 %-
 LV=3
@@ -905,10 +1309,10 @@ DI=17
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=74
+SS=24
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Secondary Colony, Planet\par
 Allegiance: The Earth's Federation of the Humans\par
 Population: \par
 GDP: \par
@@ -921,10 +1325,10 @@ DI=18
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=21
+SS=32
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Orbital Habitat\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Secondary Habitat, Orbital\par
 Allegiance: The Earth's Federation of the Humans\par
 Population: \par
 GDP: \par
@@ -949,14 +1353,14 @@ DI=21
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=15
+SS=134
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Homeworld\par
 Allegiance: The Vutchi Gouvernment of the Xi\par
 Population: \par
 GDP: \par
-\lang4105 Major issue: \par
+\lang4105 Major issue: Gouvernment Instability, Kessler Syndrome\par
 }
 %-
 LV=4
@@ -965,10 +1369,10 @@ DI=22
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=21
+SS=25
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Orbital Habitat\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Secondary Habitat, Orbital\par
 Allegiance: The Vutchi Gouvernment of the Xi\par
 Population: \par
 GDP: \par
@@ -981,10 +1385,10 @@ DI=23
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=12
+SS=22
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Primary Colony, Planet\par
 Allegiance: The Vutchi Gouvernment of the Xi\par
 Population: \par
 GDP: \par
@@ -997,10 +1401,10 @@ DI=24
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=12
+SS=23
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Secondary Habitat, Planet\par
 Allegiance: The Vutchi Gouvernment of the Xi\par
 Population: \par
 GDP: \par
@@ -1025,10 +1429,10 @@ DI=28
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=188
+SS=22
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Primary Colony, Planet\par
 Allegiance: The Royal Dominion of Queen Nezeever of the Shackletons\par
 Population: 3.7 B\par
 GDP: 112.4 T\par
@@ -1069,10 +1473,10 @@ DI=80
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=71
+SS=34
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: \par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Secondary Colony, Gas Planet\par
 Allegiance: The Arnbjorg's Union of the Paivi\par
 Population: \par
 GDP: \par
@@ -1097,14 +1501,14 @@ DI=82
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=85
+SS=131
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: \par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Minor Habitat, Deep Space\par
 Allegiance: The Arnbjorg's Union of the Paivi\par
 Population: \par
 GDP: \par
-\lang4105 Major issue: \par
+\lang4105 Major issue: Overpopulation, Crime\par
 }
 %-
 LV=4
@@ -1113,10 +1517,10 @@ DI=81
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=71
+SS=24
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Secondary Colony, Planet\par
 Allegiance: The Arnbjorg's Union of the Paivi\par
 Population: \par
 GDP: \par
@@ -1245,14 +1649,14 @@ DI=25
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=139
+SS=163
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Homeworld\par
 Allegiance: The Democratic Accord of Aglaett of the Albavotitshyns\par
 Population: 8.4 B\par
 GDP: 203 T\par
-\lang4105 Major issue: Frozen surface\par
+\lang4105 Major issue: Frozen surface, Gouvernment Corruption\par
 }
 %-
 LV=4
@@ -1261,10 +1665,10 @@ DI=27
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=106
+SS=22
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Moon\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Primary Colony, Moon\par
 Allegiance: The Democratic Accord of Aglaett of the Albavotitshyns\par
 Population: 5.8 B\par
 GDP: 134.3 T\par
@@ -1277,10 +1681,10 @@ DI=26
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=124
+SS=24
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Secondary Colony, Planet\par
 Allegiance: The Democratic Accord of Aglaett of the Albavotitshyns\par
 Population: 6.2 B\par
 GDP: 155.9 T\par
@@ -1305,14 +1709,14 @@ DI=30
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=81
+SS=146
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Primary Colony, Planet\par
 Allegiance: The Concord of the Nactr'\par
 Population: 7.9 B\par
 GDP: 143.7 T\par
-\lang4105 Major issue: \par
+\lang4105 Major issue: Overpopulation, Powerful Sandstorms\par
 }
 %-
 LV=4
@@ -1321,7 +1725,7 @@ DI=31
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=83
+SS=113
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Homeworld\par
@@ -1365,14 +1769,14 @@ DI=15
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=138
+SS=130
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
 Allegiance: The Earth's Federation of the Humans\par
 Population: 6.8 B\par
 GDP: 115 T\par
-\lang4105 Major issue: Gouvernment instability, terrorism\par
+\lang4105 Major issue: Gouvernment instability, Terrorism\par
 }
 %-
 LV=3
