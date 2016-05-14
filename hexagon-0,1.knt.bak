@@ -12,7 +12,7 @@ II=0
 DC=22-04-2016 20:15:38
 TI=0
 TS=4
-CX=124
+CX=147
 CY=0
 BG=clWindow
 CH=1
@@ -22,7 +22,7 @@ FS=8
 LN=4105
 ST=
 FL=101110000000100000000000
-SN=108
+SN=114
 TW=355
 EN=New node
 TB=clWindow
@@ -1292,14 +1292,14 @@ GDP: \par
 }
 %-
 LV=3
-ND=Alpha Centuri
+ND=Kepler
 DI=4
 NF=000000110000000000000000
 BC=clWindow
 IX=0
 HC=clBlue
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
 }
 %-
@@ -1353,13 +1353,13 @@ DI=21
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=134
+SS=147
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Homeworld\par
 Allegiance: The Vutchi Gouvernment of the Xi\par
-Population: \par
-GDP: \par
+Population: 11.2 B\par
+GDP: 240.3 T\par
 \lang4105 Major issue: Gouvernment Instability, Kessler Syndrome\par
 }
 %-
@@ -1577,7 +1577,6 @@ DI=85
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=85
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: \par
@@ -1709,7 +1708,7 @@ DI=30
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=146
+SS=6
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Primary Colony, Planet\par
@@ -1769,10 +1768,10 @@ DI=15
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=130
+SS=24
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Planet\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Secondary Colony, Planet\par
 Allegiance: The Earth's Federation of the Humans\par
 Population: 6.8 B\par
 GDP: 115 T\par
@@ -1891,12 +1890,39 @@ IX=0
 LV=2
 ND=Minor Systems
 DI=74
-NF=000000000000000000000000
+NF=000000100000000000000000
 BC=clWindow
 IX=0
 %:
 {\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=Nuwa
+DI=200
+NF=000000100000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=4
+ND=Ying Chao
+DI=201
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=58
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang3084\f0\fs16 Type: Growing Colony, Gas Planet\par
+Allegiance: \par
+Population: \par
+GDP: \par
+\lang4105 Major issue: \par
 }
 %-
 LV=1
@@ -2329,16 +2355,22 @@ DI=163
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=380
+SS=1036
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\b\f0\fs20 Bill on Cybernetic Augmentation Restriction\par
 \par
-\b0\fs16 A bill that had for objective to restrict the use, production and grafting of cybernetic augmentations. The bill doesn't cover cybernetic implants that replace that replace \par
-missing limbs or damaged organs, but many people still consider those implants as a necessary part of their life. \par
+\b0\fs16 A bill that had for objective to restrict the use, production and grafting of cybernetic augmentations. The bill doesn't cover cybernetic implants that replace missing limbs or damaged organs, but many people still consider those implants as a necessary part of their life. \par
 \par
 \par
-\b\fs20 Bill on change in the A.I Laws of Behavior\par
+\b\fs20 Mr. Amon case\par
+\par
+\b0\fs16 Mr. Amon is an android with carrying a self-aware rogue A.I. It was discovered in a police raid on Siava recently and has now become a mediatic phenomenon. Self-aware A.Is are not allowed to be built or develloped, but when one is discovered anyway, the ethic of "killing" is always questionned. \par
+\par
+The MIR have not yet officialised any specific law or process for dealing with completed self-aware A.I and still rely on the Department of Justice to decide what to do with each case. Letting this A.I "alive" would go against all A.I development regulations and encourage this behavior, but shutting it down would go against the Act of Preservation of Intelligent Life, by definition.\b\par
+\fs20\par
+\b0\fs16\par
+\b\fs20 EM threat in Nuwa\par
 \par
 \b0\fs16\par
 }
