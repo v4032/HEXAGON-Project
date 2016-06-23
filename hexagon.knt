@@ -12,7 +12,7 @@ II=0
 DC=22-04-2016 20:15:38
 TI=0
 TS=4
-CX=0
+CX=156
 CY=0
 BG=clWindow
 CH=1
@@ -22,7 +22,7 @@ FS=8
 LN=4105
 ST=
 FL=101110000000100000000000
-SN=100
+SN=182
 TW=257
 EN=New node
 TB=clWindow
@@ -48,7 +48,7 @@ SS=179
 LV=1
 ND=Character Creation
 DI=205
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -1516,7 +1516,7 @@ The rest of the Congress's 20 seats are divided as follow:\par
 LV=2
 ND=2130 ICEC Presidential Election
 DI=162
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -1591,7 +1591,7 @@ Earth's growing Kessler Syndrome\par
 LV=2
 ND=ICEC Cabinet
 DI=41
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -1730,11 +1730,10 @@ DI=48
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=34
+SS=2
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
-\par
 \par
 \par
 Secretary: Mrs. Brynne Kaleigh\par
@@ -1791,10 +1790,11 @@ DI=52
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=152
+SS=125
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Relation between members of the ICEC. Also deals with xeno relations and most importantly, the MEUZA Interstellar Alliance.\par
+\par
 \par
 Secretary: Mr. Coty Ayishah\par
 }
@@ -1805,11 +1805,10 @@ DI=53
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=253
+SS=221
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Technology devellopment and management. They also work with the Education Department on the Psychokinesis Development Program and with the Security Department for the Unconventional Technology Counter-Terrorism division.\par
-\par
 \par
 Secretary: Mrs. Jumana Lotario\par
 }
@@ -2028,7 +2027,7 @@ DI=72
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=102
+SS=37
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs24 Ideology: Anarchism\par
@@ -2060,17 +2059,19 @@ DI=71
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=39
+SS=459
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs24 Ideology: Confederatism\par
-Spectrum: Right\fs16\par
+Spectrum: Right\par
+\par
+\fs16 Under a xenophobic ideal of the ICEC, the UCP tries to unify the many members of the gouvernment under the fear of external conflicts and an extreme view over the conservation of traditions and cultures of the homeworld. The major difference between the UCP and the Constitutional Party is their strong preference for a confederated system and their somewhat, contreversial "old fashion" ideas over gender segregation.\par
 }
 %-
 LV=2
 ND=ICEC Members
 DI=209
-NF=000000000000000000000000
+NF=000000100000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2081,7 +2082,7 @@ IX=0
 LV=3
 ND=Earth
 DI=219
-NF=000000000000000000000000
+NF=000000100000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2095,9 +2096,13 @@ DI=210
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=60
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mrs. Dixie Herman\par
+ICEC senator: Mrs. Missie Sherie\par
+\par
+\par
 }
 %-
 LV=4
@@ -2106,9 +2111,11 @@ DI=211
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=53
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mr. Shufen Yijun\par
+ICEC senator: Mr. Thanh Trai\par
 }
 %-
 LV=4
@@ -2117,9 +2124,11 @@ DI=212
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=58
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mrs. Mina Suman\par
+ICEC senator: Mr. Gulrukh Sanajaya\par
 }
 %-
 LV=4
@@ -2128,9 +2137,11 @@ DI=213
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=60
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mr. Raul Burkhard\par
+ICEC senator: Mrs. Perpetua Alcide\par
 }
 %-
 LV=4
@@ -2139,9 +2150,11 @@ DI=215
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=10
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mr. Anton Gulbrand\par
+ICEC senator: Mrs. Alexandra Jango\par
 }
 %-
 LV=4
@@ -2150,9 +2163,11 @@ DI=214
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=60
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mrs. Thurayya Nadira\par
+ICEC senator: Mrs. Suzanne Rida\par
 }
 %-
 LV=4
@@ -2161,9 +2176,11 @@ DI=216
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=52
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mrs. Sofya Yuli\par
+ICEC senator: Mr. Yefim Oleg\par
 }
 %-
 LV=4
@@ -2172,9 +2189,11 @@ DI=217
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=53
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mrs. Isa Erasmo\par
+ICEC senator: Mr. Carmelo Susana\par
 }
 %-
 LV=4
@@ -2183,15 +2202,17 @@ DI=218
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=60
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mrs. Dores Mauro\par
+ICEC senator: Mrs. Cesaria Ezequiel\par
 }
 %-
 LV=3
 ND=Luna
 DI=220
-NF=000000000000000000000000
+NF=000000100000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2205,9 +2226,11 @@ DI=221
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=49
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mr. Da Bai\par
+ICEC senator: Mrs. Xiuying Wen\par
 }
 %-
 LV=4
@@ -2216,15 +2239,17 @@ DI=222
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=60
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mrs. Arlette Nathan\par
+ICEC senator: Mr. Absolon Amaury\par
 }
 %-
 LV=3
 ND=Mars
 DI=223
-NF=000000000000000000000000
+NF=000000100000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2238,9 +2263,11 @@ DI=225
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=49
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mrs. Dannie Josephina\par
+ICEC senator: Mrs. Georgiana Jaime\par
 }
 %-
 LV=4
@@ -2249,15 +2276,17 @@ DI=226
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=58
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mr. Moisey Isidor\par
+ICEC senator: Mrs. Alexandra Nazariy\par
 }
 %-
 LV=3
 ND=Kepler
 DI=224
-NF=000000000000000000000000
+NF=000000100000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2271,15 +2300,17 @@ DI=227
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=53
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mrs. Romaine Coralie\par
+ICEC senator: Mr. Salome Karine\par
 }
 %-
 LV=3
 ND=Cixi
 DI=228
-NF=000000000000000000000000
+NF=000000100000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2293,15 +2324,17 @@ DI=229
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=48
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mrs. Yahui Hua\par
+ICEC senator: Mrs. Na Wei\par
 }
 %-
 LV=3
 ND=Europa
 DI=230
-NF=000000000000000000000000
+NF=000000100000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2315,9 +2348,64 @@ DI=231
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=61
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Leader: Mr. Mathieu Felicite\par
+ICEC senator: Mr. Florent Pascal\par
+}
+%-
+LV=2
+ND=ICEC Lobbyists
+DI=236
+NF=000000100000000000000000
+BC=clWindow
+IX=0
 %:
 {\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=3
+ND=H3
+DI=237
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=156
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 H3 is the biggest player in the energy fuel industry. It produces energy cells and owns most power stations on colonies.\par
+\par
+\par
+Gross Profit of 2129: 480 Million $\par
+\par
+CEO: Mrs. Caelina Shirin\par
+\par
+ICEC Representative: Mr. Rafal Amadeus\par
+\par
+Last election lobby: Constitutional Party\par
+}
+%-
+LV=3
+ND=The Big C
+DI=238
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=272
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 One of the most important lobbyist in the Council, the insurance company has an impressive record for supporting winning parties. The interplanetary company owns all kind of insurance firms ranging from housing, vehicle and life insurances. \par
+\par
+\par
+Lobby of 2129: 595 Million $\par
+\par
+CEO: \par
+\par
+ICEC Representative: \par
+\par
+Last election lobby: \par
 }
 %-
 LV=1
