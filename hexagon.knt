@@ -12,7 +12,7 @@ II=0
 DC=22-04-2016 20:15:38
 TI=0
 TS=4
-CX=156
+CX=422
 CY=0
 BG=clWindow
 CH=1
@@ -22,7 +22,7 @@ FS=8
 LN=4105
 ST=
 FL=101110000000100000000000
-SN=182
+SN=149
 TW=257
 EN=New node
 TB=clWindow
@@ -1589,9 +1589,9 @@ Earth's growing Kessler Syndrome\par
 }
 %-
 LV=2
-ND=ICEC Cabinet
+ND=World Union Cabinet
 DI=41
-NF=000000000000000000000000
+NF=000000100000000000000000
 BC=clWindow
 IX=0
 %:
@@ -1605,7 +1605,7 @@ DI=42
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=360
+SS=332
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Food production and distribution\par
@@ -1614,6 +1614,8 @@ The Department is in charge of dealing with the changing environment of Earth to
 of the homeworld but also support the colonies which are still needing support. \par
 \par
 It also works on implementing new and better farmlands on colonies.\par
+\par
+Application: \par
 \par
 \par
 Secretary: Mr. Truc Wendell\par
@@ -1625,11 +1627,13 @@ DI=56
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=59
+SS=45
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Territory resource management\par
 \par
+\par
+Application: \par
 \par
 Secretary: Mrs. Itri Chinwe\par
 }
@@ -1640,11 +1644,13 @@ DI=43
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=68
+SS=65
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Trade, customer protection and industry standards\par
 \par
+\par
+Application: \par
 \par
 Secretary: Mrs. Ilene Melor\par
 }
@@ -1655,10 +1661,12 @@ DI=55
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=205
+SS=191
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 ICEC military and fleet management. Some of the famous include the 3rd Interstellar Fleet, the OASR task force, the 36th Colonies Defense Marines and the 104th Talons Squadron\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 ICEC military and fleet management. Some of the famous include the 3rd Interstellar Fleet, the OASR task force, the 36th Colonies Defense Marines and the 104th Talons Squadron.\par
+\par
+Application: \par
 \par
 \par
 Secretary: Mr. Humbert Yuli\par
@@ -1670,11 +1678,11 @@ DI=44
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=37
+SS=14
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
-\par
+Application: \par
 \par
 Secretary: Mrs. Sharise Concettina\par
 }
@@ -1685,11 +1693,11 @@ DI=45
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=30
+SS=14
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
-\par
+Application: \par
 \par
 Secretary: Mrs. Dakota Fawn\par
 }
@@ -1700,10 +1708,12 @@ DI=46
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=30
+SS=17
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+\par
+Application: \par
 \par
 \par
 Secretary: Mr. Rachyl Fatin\par
@@ -1715,11 +1725,13 @@ DI=47
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=28
+SS=16
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
 \par
+\par
+Application: \par
 \par
 Secretary: Mr. Trent Bert\par
 }
@@ -1730,11 +1742,12 @@ DI=48
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=2
+SS=15
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
 \par
+Application: \par
 \par
 Secretary: Mrs. Brynne Kaleigh\par
 }
@@ -1745,11 +1758,13 @@ DI=49
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=84
+SS=69
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Enforcement of the law and administration of justice.\par
 \par
+\par
+Application: \par
 \par
 Secretary: Mrs. Rona Chiumbo\par
 }
@@ -1760,11 +1775,13 @@ DI=50
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=91
+SS=74
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Employment standards of all citizen working in MIR systems\par
 \par
+\par
+Application: \par
 \par
 Secretary: Mr. Ryoichi Clayton\par
 }
@@ -1775,11 +1792,13 @@ DI=51
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=126
+SS=110
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Security inside and outside ICEC systems on the civilian level. Contains infamous FSDS Division\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Security inside and outside ICEC systems on the civilian level. Contains infamous Division 16.\par
 \par
+\par
+Application: \par
 \par
 Secretary: Mr. Akachi Isidor\par
 }
@@ -1790,11 +1809,13 @@ DI=52
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=125
+SS=139
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Relation between members of the ICEC. Also deals with xeno relations and most importantly, the MEUZA Interstellar Alliance.\par
 \par
+\par
+Application: \par
 \par
 Secretary: Mr. Coty Ayishah\par
 }
@@ -1805,10 +1826,13 @@ DI=53
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=221
+SS=227
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Technology devellopment and management. They also work with the Education Department on the Psychokinesis Development Program and with the Security Department for the Unconventional Technology Counter-Terrorism division.\par
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Technology devellopment and management. They also work with the Education Department on the Psychokinesis Development Program and with the Security Department for the Division 16.\par
+\par
+\par
+Application: \par
 \par
 Secretary: Mrs. Jumana Lotario\par
 }
@@ -1819,17 +1843,22 @@ DI=54
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=91
+SS=382
 %:
-{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}{\f1\fnil\fcharset2 Symbol;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Planetary, interplanetary and intertellar transportations.\par
 \par
 \par
+Application: \par
+\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-280\li280 Day-to-day travels are mainly done in automated ground-based public transit vehicles. Higher class individuals and people from outside major cities and districts still use personal vehicles.\par
+{\pntext\f1\'B7\tab}Companies use flying vehicles for transporting cargo via areal roads, which are under the jurisdiction of the PAA. \par
+{\pntext\f1\'B7\tab}\par
+\pard\par
 Secretary: Mrs. Sultana Dennis\par
 }
 %-
 LV=2
-ND=ICEC Presidential Election System
+ND=World Union Presidential Election System
 DI=57
 NF=000000000000000000000000
 BC=clWindow
@@ -1928,7 +1957,7 @@ DI=68
 NF=000000000000000000000000
 BC=clWindow
 IX=0
-SS=406
+SS=422
 %:
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs24 Ideology: Liberalism\par
@@ -1938,7 +1967,10 @@ Spectrum: Left\par
 improve old structures in favor of establishing new and better ones. The party is well known on some other worlds like Aglaett and Constanta for its \par
 tendancy to protect its immigrants.\par
 \par
-\fs16 Leader: Mr. Frances Ursel\fs20\par
+\fs16 Leader: Mr. Frances Ursel\par
+\par
+\par
+Raja Koraljka\fs20\par
 }
 %-
 LV=4
@@ -2411,7 +2443,7 @@ Last election lobby: \par
 LV=1
 ND=MEUZA Interstellar Alliance
 DI=40
-NF=000000000000000000000000
+NF=000000100000000000000000
 BC=clWindow
 IX=0
 SS=1228
@@ -2440,7 +2472,7 @@ IX=0
 LV=3
 ND=Major Systems
 DI=2
-NF=000000000000000000000000
+NF=000000100000000000000000
 BC=clWindow
 IX=0
 %:
