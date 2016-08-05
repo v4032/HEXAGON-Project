@@ -12,7 +12,7 @@ II=0
 DC=22-04-2016 20:15:38
 TI=0
 TS=4
-CX=422
+CX=0
 CY=0
 BG=clWindow
 CH=1
@@ -21,8 +21,8 @@ FN=Tahoma
 FS=8
 LN=4105
 ST=
-FL=101110000000100000000000
-SN=149
+FL=101110000000100001000000
+SN=40
 TW=257
 EN=New node
 TB=clWindow
@@ -48,7 +48,7 @@ SS=179
 LV=1
 ND=Character Creation
 DI=205
-NF=000000000000000000000000
+NF=000000100000000000000000
 BC=clWindow
 IX=0
 %:
@@ -307,20 +307,10 @@ DI=112
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=78
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
-}
-%-
-LV=6
-ND=Gunmanship
-DI=111
-NF=000000000000000000000000
-BC=clWindow
-IX=0
-%:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Use of explosives such as planted explosives, anti-tank and anti-air weaponry.\par
 }
 %-
 LV=6
@@ -329,9 +319,10 @@ DI=110
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=210
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Used when in combat in open ground such as fighting in mountains, plains or woods. Mostly prefered by snipers and marksman, but can often be used by regular combatants when engaging targets over long distances.\par
 }
 %-
 LV=6
@@ -340,9 +331,10 @@ DI=109
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=105
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Fighting opponents using melee weapons or in unarmed combat. Can be used to disarm, trip or wrestle with your target.\par
 }
 %-
 LV=6
@@ -351,9 +343,23 @@ DI=108
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=90
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Avoiding detection by using cover, environment and camouflage technology most effectively.\par
+}
+%-
+LV=6
+ND=Tactics
+DI=239
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=281
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Fighting using firearms and most other types of ranged weapons. This skill will be used in most types of combat involving two or more parties firing at each other in a quick and sporadic way. \par
+It can also be used to make a plan beforehand and make predictions using gathered intel.\par
 }
 %-
 LV=5
@@ -368,25 +374,15 @@ IX=0
 }
 %-
 LV=6
-ND=Business
-DI=101
-NF=000000000000000000000000
-BC=clWindow
-IX=0
-%:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
-}
-%-
-LV=6
 ND=Crime
 DI=104
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=102
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Involved in everything that requires performing illegal actions and how to hide them from authorities.\par
 }
 %-
 LV=6
@@ -395,9 +391,10 @@ DI=102
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=101
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Knowledge of languages, traditions and social standards of different groups, ethnicities and species.\par
 }
 %-
 LV=6
@@ -406,9 +403,10 @@ DI=128
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=87
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Driving and operating vehicles in stressful situations and performing dangerous stunts.\par
 }
 %-
 LV=6
@@ -417,9 +415,10 @@ DI=91
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=212
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Using intelligent devices beyond their casual fonctions such as programming, looking for hidden files and hacking. Establishing connections with remote devices may involve the Networking skill on top of this one.\par
 }
 %-
 LV=6
@@ -428,9 +427,22 @@ DI=106
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=162
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Knowledge about laws, gouvernment procedures and licensings. This skill comes in useful when trying to acquire licenses that someone should not be allowed to get.\par
+}
+%-
+LV=6
+ND=Market
+DI=101
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+SS=181
+%:
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Used when trying to buy items or services at the cheapest price without sacrificing quality. It is also used when buying shares on the stock market and trying to predict inflations.\par
 }
 %-
 LV=6
@@ -440,8 +452,8 @@ NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Repairing, maintaining and building mechanical components of vehicles and devices.\par
 }
 %-
 LV=6
@@ -450,9 +462,10 @@ DI=97
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=236
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 From first aid to surgery, this skill is the one of saving lifes and helping the healing process of victims. Common uses are performing first-aid procedures, stabilizing a dying victim, performing surgeries and providing long-term care.\par
 }
 %-
 LV=6
@@ -461,9 +474,10 @@ DI=103
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=194
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Keeping track of daily dramas, evolution and crisis of the media. It can also be used in conjunction with the Culture Skill to provide information on pop culture of other cultures and societies. This skill is particulary useful when interacting with people from major cities of the world.\par
 }
 %-
 LV=6
@@ -472,9 +486,10 @@ DI=105
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=147
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Finding relevent information on specific subjects using a private database or the Net. It is also used by technicians and scientist to perform R&Ds.\par
 }
 %-
 LV=6
@@ -483,9 +498,10 @@ DI=94
 NF=000000000000000000000000
 BC=clWindow
 IX=0
+SS=86
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
-{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16 Repairing, maintaining and building structural components of buildings and spaceships.\par
 }
 %-
 LV=5
@@ -500,13 +516,13 @@ IX=0
 }
 %-
 LV=6
-ND=Acrobatism
+ND=Acrobatics
 DI=117
 NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
 }
 %-
@@ -524,6 +540,17 @@ IX=0
 LV=6
 ND=Climbing
 DI=115
+NF=000000000000000000000000
+BC=clWindow
+IX=0
+%:
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
+}
+%-
+LV=6
+ND=Concentration
+DI=240
 NF=000000000000000000000000
 BC=clWindow
 IX=0
@@ -1480,13 +1507,13 @@ IX=0
 }
 %-
 LV=1
-ND=Interplanetar Council of Earth and its Colonies
+ND=Earth's World Union
 DI=202
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
 }
 %-
@@ -1591,7 +1618,7 @@ Earth's growing Kessler Syndrome\par
 LV=2
 ND=World Union Cabinet
 DI=41
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -1911,7 +1938,7 @@ SS=288
 }
 %-
 LV=2
-ND=ICEC Parties
+ND=EWU Parties
 DI=61
 NF=000000100000000000000000
 BC=clWindow
@@ -1924,7 +1951,7 @@ IX=0
 LV=3
 ND=Major Parties
 DI=65
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2013,7 +2040,7 @@ Leader: Mrs. Samantha Ethan\par
 LV=3
 ND=Minor Parties
 DI=66
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2101,9 +2128,9 @@ Spectrum: Right\par
 }
 %-
 LV=2
-ND=ICEC Members
+ND=EWU Members
 DI=209
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2114,7 +2141,7 @@ IX=0
 LV=3
 ND=Earth
 DI=219
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2244,7 +2271,7 @@ ICEC senator: Mrs. Cesaria Ezequiel\par
 LV=3
 ND=Luna
 DI=220
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2281,7 +2308,7 @@ ICEC senator: Mr. Absolon Amaury\par
 LV=3
 ND=Mars
 DI=223
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2318,7 +2345,7 @@ ICEC senator: Mrs. Alexandra Nazariy\par
 LV=3
 ND=Kepler
 DI=224
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2342,7 +2369,7 @@ ICEC senator: Mr. Salome Karine\par
 LV=3
 ND=Cixi
 DI=228
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2366,7 +2393,7 @@ ICEC senator: Mrs. Na Wei\par
 LV=3
 ND=Europa
 DI=230
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2388,13 +2415,13 @@ ICEC senator: Mr. Florent Pascal\par
 }
 %-
 LV=2
-ND=ICEC Lobbyists
+ND=EWU Lobbyists
 DI=236
 NF=000000100000000000000000
 BC=clWindow
 IX=0
 %:
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 {\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\lang4105\f0\fs16\par
 }
 %-
@@ -2443,7 +2470,7 @@ Last election lobby: \par
 LV=1
 ND=MEUZA Interstellar Alliance
 DI=40
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 SS=1228
@@ -2472,7 +2499,7 @@ IX=0
 LV=3
 ND=Major Systems
 DI=2
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
@@ -2483,7 +2510,7 @@ IX=0
 LV=4
 ND=Ale
 DI=5
-NF=000000110000000000000000
+NF=000000010000000000000000
 BC=clWindow
 IX=0
 HC=clRed
@@ -2527,7 +2554,7 @@ GDP: \par
 LV=4
 ND=Kepler
 DI=4
-NF=000000110000000000000000
+NF=000000010000000000000000
 BC=clWindow
 IX=0
 HC=clBlue
@@ -2571,7 +2598,7 @@ GDP: \par
 LV=4
 ND=Constanta
 DI=6
-NF=000000110000000000000000
+NF=000000010000000000000000
 BC=clWindow
 IX=0
 HC=$008080FF
@@ -2647,7 +2674,7 @@ GDP: \par
 LV=4
 ND=Emry
 DI=7
-NF=000000110000000000000000
+NF=000000010000000000000000
 BC=clWindow
 IX=0
 HC=$00004040
@@ -2691,7 +2718,7 @@ GDP: 0\par
 LV=4
 ND=Heike
 DI=8
-NF=000000110000000000000000
+NF=000000010000000000000000
 BC=clWindow
 IX=0
 HC=clRed
@@ -2719,7 +2746,7 @@ GDP: \par
 LV=4
 ND=Lyn
 DI=10
-NF=000000110000000000000000
+NF=000000010000000000000000
 BC=clWindow
 IX=0
 HC=clRed
@@ -2763,7 +2790,7 @@ GDP: \par
 LV=4
 ND=Michik
 DI=11
-NF=000000110000000000000000
+NF=000000010000000000000000
 BC=clWindow
 IX=0
 HC=clRed
@@ -2822,7 +2849,7 @@ GDP: \par
 LV=4
 ND=Nuwa
 DI=12
-NF=000000110000000000000000
+NF=000000010000000000000000
 BC=clWindow
 IX=0
 HC=clBlue
@@ -2866,7 +2893,7 @@ GDP: 97.2 T\par
 LV=4
 ND=Négonde
 DI=3
-NF=000000110000000000000000
+NF=000000010000000000000000
 BC=clWindow
 IX=0
 HC=$00FF8080
@@ -2926,7 +2953,7 @@ GDP: 155.9 T\par
 LV=4
 ND=Pao
 DI=9
-NF=000000110000000000000000
+NF=000000010000000000000000
 BC=clWindow
 IX=0
 HC=clTeal
@@ -2970,7 +2997,7 @@ GDP: 251.1 T\par
 LV=4
 ND=Sol
 DI=13
-NF=000000110000000000000000
+NF=000000010000000000000000
 BC=clWindow
 IX=0
 HC=clBlue
@@ -3014,7 +3041,7 @@ GDP: 115 T\par
 LV=4
 ND=Tsarinn
 DI=77
-NF=000000100000000000000000
+NF=000000000000000000000000
 BC=clWindow
 IX=0
 %:
